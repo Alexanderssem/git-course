@@ -26,3 +26,5 @@
 - **git init** *создать локальный репозиторий*
 - **git log** *список всех комитов*
 - **git diff** *изменения* 
+
+[Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov)
